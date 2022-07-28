@@ -10,6 +10,6 @@ public class Test {
         System.out.println("master");
         System.out.println("hot---fix");
         System.out.println("master02");
-        System.out.println("github");
+
     }
 }
